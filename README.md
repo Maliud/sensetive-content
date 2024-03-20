@@ -2,6 +2,8 @@ Sensitive Content Design in Flutter
 
 This Flutter project features a user interface design that handles responsive content and offers options to hide or show such content. The application uses Flutter to create an attractive and functional interface.
 
+![1](https://github.com/Maliud/sensetive-content/assets/72108306/9f99b6e9-01a7-41a6-9c96-ec70dbff839e)  ![2](https://github.com/Maliud/sensetive-content/assets/72108306/d984f49c-3837-4713-a443-0e735676393e)
+
 
 
 Features
